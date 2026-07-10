@@ -338,7 +338,7 @@ The application uses:
 # Screenshots
 
 ## Login Page
-Screenshot_10-7-2026_112520_localhost
+demo1.png
 ```
 assets/login.png
 ```
@@ -348,13 +348,13 @@ assets/login.png
 ---
 
 ## Registration Page
-Screenshot 2026-07-10 112103
+demo2.png
 ```
 assets/register.png
 ```
 
 ![Register](assets/register.png)
-Screenshot_10-7-2026_112537_localhost
+demo3.png
 
 ---
 
