@@ -338,23 +338,22 @@ The application uses:
 # Screenshots
 
 ## Login Page
-demo1.png
 ```
 assets/login.png
 ```
 
-![Login](assets/login.png)
+![Login](demo1.png)
 
 ---
 
 ## Registration Page
-demo2.png
+
 ```
 assets/register.png
 ```
 
-![Register](assets/register.png)
-demo3.png
+![Register](demo2.png)
+
 
 ---
 
@@ -365,7 +364,7 @@ demo3.png
 assets/add-note.png
 ```
 
-![Add Note](assets/add-note.png)
+![Add Note](demo3.png)
 
 ---
 
